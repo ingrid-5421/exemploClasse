@@ -1,0 +1,15 @@
+C:\Users\ingri\Curso\Exemplosclasse\Exemplosclasse\bin\Debug\net8.0\Exemplosclasse.exe
+C:\Users\ingri\Curso\Exemplosclasse\Exemplosclasse\bin\Debug\net8.0\Exemplosclasse.deps.json
+C:\Users\ingri\Curso\Exemplosclasse\Exemplosclasse\bin\Debug\net8.0\Exemplosclasse.runtimeconfig.json
+C:\Users\ingri\Curso\Exemplosclasse\Exemplosclasse\bin\Debug\net8.0\Exemplosclasse.dll
+C:\Users\ingri\Curso\Exemplosclasse\Exemplosclasse\bin\Debug\net8.0\Exemplosclasse.pdb
+C:\Users\ingri\Curso\Exemplosclasse\Exemplosclasse\obj\Debug\net8.0\Exemplosclasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ingri\Curso\Exemplosclasse\Exemplosclasse\obj\Debug\net8.0\Exemplosclasse.AssemblyInfoInputs.cache
+C:\Users\ingri\Curso\Exemplosclasse\Exemplosclasse\obj\Debug\net8.0\Exemplosclasse.AssemblyInfo.cs
+C:\Users\ingri\Curso\Exemplosclasse\Exemplosclasse\obj\Debug\net8.0\Exemplosclasse.csproj.CoreCompileInputs.cache
+C:\Users\ingri\Curso\Exemplosclasse\Exemplosclasse\obj\Debug\net8.0\Exemplosclasse.sourcelink.json
+C:\Users\ingri\Curso\Exemplosclasse\Exemplosclasse\obj\Debug\net8.0\Exemplosclasse.dll
+C:\Users\ingri\Curso\Exemplosclasse\Exemplosclasse\obj\Debug\net8.0\refint\Exemplosclasse.dll
+C:\Users\ingri\Curso\Exemplosclasse\Exemplosclasse\obj\Debug\net8.0\Exemplosclasse.pdb
+C:\Users\ingri\Curso\Exemplosclasse\Exemplosclasse\obj\Debug\net8.0\Exemplosclasse.genruntimeconfig.cache
+C:\Users\ingri\Curso\Exemplosclasse\Exemplosclasse\obj\Debug\net8.0\ref\Exemplosclasse.dll
